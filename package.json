@@ -4,7 +4,7 @@
   "description": "A example of node.js API with SOLID archteture.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/fmarcolla/node-api-solid#readme",
   "devDependencies": {
     "@types/node": "^18.15.0",
+    "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
   }
 }

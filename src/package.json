@@ -1,0 +1,24 @@
+{
+  "name": "node-api-solid",
+  "version": "1.0.0",
+  "description": "A example of node.js API with SOLID archteture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmarcolla/node-api-solid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmarcolla/node-api-solid/issues"
+  },
+  "homepage": "https://github.com/fmarcolla/node-api-solid#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "typescript": "^4.9.5"
+  }
+}

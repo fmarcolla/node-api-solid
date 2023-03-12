@@ -1,2 +1,2 @@
 # node-api-solid
-A example of node.js API with SOLID archteture.
+A example of node.js API with SOLID architecture.
